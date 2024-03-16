@@ -16,7 +16,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Blog-博客-blue?logo=openjdk" /></a>&emsp;
+    <a href="https://www.wllomve.top/" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-blue?logo=openjdk" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=OnismExplorer&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
