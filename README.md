@@ -21,7 +21,8 @@
     <img src="https://komarev.com/ghpvc/?username=OnismExplorer&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnismExplorer&theme=react-dark&radius=10&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!--GitHub 活动统计图-->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnismExplorer&theme=react-dark&radius=10&hide_border=true">
 </div>
 <!--
 **OnismExplorer/OnismExplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
