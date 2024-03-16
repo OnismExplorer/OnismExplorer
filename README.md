@@ -21,6 +21,13 @@
     <img src="https://komarev.com/ghpvc/?username=OnismExplorer&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OnismExplorer/OnismExplorer/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/OnismExplorer/OnismExplorer/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/OnismExplorer/OnismExplorer/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
   <!--GitHub 活动统计图-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnismExplorer&theme=react-dark&radius=10&hide_border=true">
 </div>
