@@ -5,8 +5,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B462&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=console.log(%22Hello%2C%20World%22);欢迎光临我的GitHub!&center=true&size=27" />
     </a>
   </div>
-  <img height="225px" src="https://camo.githubusercontent.com/2e7822a15ec554d015e2aa6de72ee77e6d7ddbf4d87f372bd7f6c1815c34bab7/68747470733a2f2f66696e6765726265642e6f73732d636e2d6368656e6764752e616c6979756e63732e636f6d2f4353444e2f3230323430333136313232333239312e6a7067" style="border-radius: 10px; pointer-events: none;"/>
-  <img height="225px" src="https://camo.githubusercontent.com/b72fd7c800109cdfedaf663f22cb0880312f2dd5d8f15e80374bd30ad4bd4042/68747470733a2f2f66696e6765726265642e6f73732d636e2d6368656e6764752e616c6979756e63732e636f6d2f4353444e2f3230323430333136313432333134342e6a7067" style="border-radius: 10px; pointer-events: none;"/><br>
+  
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=OnismExplorer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><br>
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnismExplorer&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnismExplorer" /><br>
